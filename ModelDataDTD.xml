@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "ModelData.dtd">
+<library>
+	<vinyl id="1">
+		<title>Shore</title>
+		<artist>Fleet Foxes</artist>
+		<year>2020</year>
+		<vinyl_color>Blue Swirl</vinyl_color>
+	</vinyl>
+	<vinyl id="2">
+		<title>Picaresque</title>
+		<artist>The Decemberists</artist>
+		<year>2005</year>
+		<vinyl_color>Black</vinyl_color>
+	</vinyl>
+	<vinyl id="3">
+		<title>Screen Violence</title>
+		<artist>Chvrches</artist>
+		<year>2021</year>
+		<vinyl_color>Blue</vinyl_color>
+	</vinyl>
+	<vinyl id="4">
+		<title>Set My Heart on Fire Immediatley</title>
+		<artist>Perfume Genius</artist>
+		<year>2020</year>
+		<vinyl_color>Blue</vinyl_color>
+	</vinyl>
+	<vinyl id="5">
+		<title>Sleep Well Beast</title>
+		<artist>The National</artist>
+		<year>2017</year>
+		<vinyl_color>Blue</vinyl_color>
+	</vinyl>
+</library>

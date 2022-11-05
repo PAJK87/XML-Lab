@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT library (vinyl+)>
+
+<!ELEMENT vinyl (title, artist, year, vinyl_color)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT vinyl_color (#PCDATA)>
+<!ATTLIST vinyl id CDATA #REQUIRED>
